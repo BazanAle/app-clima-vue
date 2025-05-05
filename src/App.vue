@@ -14,5 +14,4 @@ import Clima from "./components/Clima.vue";
 import Alerta from "./components/Alerta.vue";
 import Spinner from "./components/Spinner.vue";
 const { obtenerClima, clima, mostrarClima, cargando, error } = useClima();
-console.log();
 </script>
